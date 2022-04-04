@@ -20,6 +20,22 @@ about the features of the client.
 [discrete]
 === Quick start
 
+Create a new directory called elastic-search and switch to that directory
+
+[source,sh]
+----
+mkdir elastic-search
+cd elastic-search
+----
+
+Initialise npm and follow the instructions
+[source,sh]
+----
+npm init -y
+----
+
+Paste below code into index.js
+
 [source,js]
 ----
 'use strict'
